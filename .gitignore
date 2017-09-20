@@ -35,6 +35,10 @@ files/
 
 *.sublime-workspace
 
+# Intellij
+.idea/
+*.iml
+
 # Keyfile will be decrypted from keyfile.json.enc by travis
 # https://docs.travis-ci.com/user/encrypting-files/
 keyfile.json
